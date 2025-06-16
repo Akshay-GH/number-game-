@@ -12,7 +12,7 @@ A fun and interactive **Number Guessing Game** built using **HTML, CSS, and Java
 
 ## 📸 Screenshot
 
-![Number Guessing Game Screenshot](screenshot.png) <!-- Replace with actual image if available -->
+![Number Guessing Game Screenshot](public/game.png) <!-- Replace with actual image if available -->
 
 ## 🧩 How to Play
 
@@ -31,3 +31,4 @@ git clone https://github.com/Akshay-GH/number-guessing-game-.git
 cd number-guessing-game-
 start index.html
 
+```
